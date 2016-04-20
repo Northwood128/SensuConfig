@@ -1,0 +1,11 @@
+{
+  "client":{
+    "name": "Sensuserver",
+    "address": "localhost",
+    "environment": "production",
+    "subscriptions":[
+      "prod",
+      "linux"
+    ]
+  }
+}
