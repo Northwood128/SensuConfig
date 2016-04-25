@@ -1,6 +1,6 @@
 {
   "client":{
-    "name": "Sensuserver",
+    "name": "Sensuserver1",
     "address": "127.0.0.1",
     "environment": "production",
     "subscriptions":[
